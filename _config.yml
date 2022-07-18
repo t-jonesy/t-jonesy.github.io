@@ -16,7 +16,7 @@ platforms:
     link: https://www.linkedin.com/in/taylrjones/
   - name: Résumé
     icon: <i class="fa-solid fa-file-lines"></i>
-    link: ./assets/files/vaibhav_vikas_resume.pdf
+    link: ./assets/resume.pdf
 
 # About/contact
 author:
