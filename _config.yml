@@ -23,6 +23,6 @@ author:
 
 # Gems
 plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jemoji
+  - jekyll-remote-theme
+#theme
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
