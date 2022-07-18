@@ -1,7 +1,7 @@
 # Setup
 title:               Taylor Jones
-tagline:             'Network and Systems Engineer Focused on Automation'
 description:         'Network and Systems Engineer Focused on Automation'
+color-scheme: dark
 url:                 http://taylorjones.engineer
 email: me@taylorjones.engineer
 logo: /assets/img/logo.png
