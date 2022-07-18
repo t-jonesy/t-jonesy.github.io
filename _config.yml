@@ -1,1 +1,28 @@
-theme: jekyll-theme-minimal
+# Setup
+title:               Taylor Jones
+tagline:             'Network and Systems Engineer Focused on Automation'
+description:         'Network and Systems Engineer Focused on Automation'
+url:                 http://taylorjones.engineer
+email: me@taylorjones.engineer
+logo: /assets/img/logo.png
+
+
+platforms:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/t-jonesy
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/taylrjones/
+
+# About/contact
+author:
+  name:              Taylor Jones
+  url:               https://taylorjones.engineer
+  email:             me@taylorjones.engineer
+
+# Gems
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
