@@ -1,4 +1,4 @@
-Hey, I'm Taylor, an engineer who enjoys finding ways to automate "the boring things."
+Hey, I'm Taylor, an engineer who enjoys finding ways to automate the boring things.
 
 I like to find unique solutions to problems that make use of the existing infrastructure in outside-of-the-box ways.
 
